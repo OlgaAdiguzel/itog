@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EnglishForKids</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="happy">happy</string>
+    <string name="angry">angry</string>
+    <string name="calm">calm</string>
+    <string name="hurt">hurt</string>
+    <string name="products">Our products</string>
+    <string name="study">Study</string>
+    <string name="welcome">Welcome to our web site</string>
+</resources>
